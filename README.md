@@ -33,7 +33,6 @@ You can find these video demos on LinkedIn with the hashtag #codsoft, or visit m
 
 - **Level 1 Task 2**: Build a to-do list application.
 - **Level 1 Task 3**: Develop a basic calculator.
-- **Level 2 Task 1**: Create a tribute page dedicated to someone you admire.
 
 Each task contributes to your web development skills and showcases your abilities. 
 
