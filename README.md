@@ -16,6 +16,18 @@ You can find these video demos on LinkedIn with the hashtag #codsoft, or visit m
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@anupr0y) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/@anupr0y/)  &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@anupr0y)   &nbsp; &nbsp; &nbsp;
 
 
+### About Me: 
+
+As a freelance web developer and designer, my passion lies in crafting compelling digital experiences. With a strong foundation in web development technologies like HTML, CSS, JavaScript, and proficiency in WordPress, I bring a unique blend of technical expertise and creative design skills to each project. I thrive on creating visually stunning, user-friendly websites that not only meet clients' needs but also exceed their expectations. My commitment to staying at the forefront of web development trends ensures that I can deliver innovative and responsive solutions that make a real impact.
+
+#### Skills: 
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,javascript,react,php,tailwind,figma,photoshop&theme,photoshop=light)](https://skillicons.dev)
+
+
+
+
+
+
 
 
 👨‍💻 **Task List**:
