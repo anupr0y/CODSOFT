@@ -12,6 +12,10 @@ This repository includes completed tasks for Levels 1 of the web development int
 📺 **Task Demonstrations**:
 You can find these video demos on LinkedIn with the hashtag #codsoft, or visit my profile, further enhancing your credibility and visibility.
   [Visit My Profile on LinkedIn ](https://www.linkedin.com/in/anupr0y/)
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@anupr0y) &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/@anupr0y/)  &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@anupr0y)   &nbsp; &nbsp; &nbsp;
+
+
 
 
 👨‍💻 **Task List**:
@@ -20,7 +24,10 @@ You can find these video demos on LinkedIn with the hashtag #codsoft, or visit m
   Welcome to my Portfolio Website!
   
   **Description:**
-  This is a simple and elegant portfolio website that showcases my skills, projects, and experiences. It's designed to provide an overview of my work and provide visitors with a glimpse of my journey in the world of web development and design.
+  This is an elegant portfolio website that showcases my skills, projects, and experiences. It's designed to provide an overview of my work and provide visitors with a glimpse of my journey in the world of web development and design.
+ 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](CSS3.COM) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](JAVASCRIPT)  
+
 
   **Visit My Portfolio:**
   Ready to explore my work? Click the link below to visit my portfolio website:
