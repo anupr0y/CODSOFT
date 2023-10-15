@@ -38,8 +38,6 @@ As a freelance web developer and designer, my passion lies in crafting compellin
   **Description:**
   This is an elegant portfolio website that showcases my skills, projects, and experiences. It's designed to provide an overview of my work and provide visitors with a glimpse of my journey in the world of web development and design.
  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](HTML) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](CSS3.COM) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](JAVASCRIPT)  
-
 
   **Visit My Portfolio:**
   Ready to explore my work? Click the link below to visit my portfolio website:
