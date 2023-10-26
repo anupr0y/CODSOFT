@@ -48,19 +48,13 @@ As a freelance web developer and designer, my passion lies in crafting compellin
 - **Level 1 Task 2**: LANDING PAGE
   
    **Description:**
-  This beginner-friendly web development project focuses on creating an engaging landing page using HTML and CSS. It's the perfect opportunity to grasp the fundamentals of web design. Dive into the world of columns, sections, headers, footers, and layout alignment. Unleash your creativity while fine-tuning essential skills like padding, color choices, and element arrangement. The goal is to craft an eye-catching, user-friendly, and well-structured page. This project offers a practical platform to apply HTML and CSS knowledge, ideal for those taking their first steps into web development. Happy coding! 😄
+This beginner-friendly web development project focuses on creating an engaging landing page using HTML and CSS. It's the perfect opportunity to grasp the fundamentals of web design. Dive into the world of columns, sections, headers, footers, and layout alignment. Unleash your creativity while fine-tuning essential skills like padding, color choices, and element arrangement. The goal is to craft an eye-catching, user-friendly, and well-structured page. This project offers a practical platform to apply HTML and CSS knowledge, ideal for those taking their first steps into web development. Happy coding! 😄
 
     [View Project](https://anupr0y.github.io/CODSOFT/Task%202/index.html)
   
 - **Level 1 Task 3**: Develop a basic calculator.
 
-Each task contributes to your web development skills and showcases your abilities. 
+Each task contributes to my web development skills and showcases my abilities. 
+Feel free to browse through my projects, learn more about my skills, and get in touch with me for collaborations or inquiries.
 
-👉 **Stay tuned for more updates and the Task Submission Form, which will be shared via email.**
-
-Happy coding and best of luck with your internship journey!
-
-
-  Feel free to browse through my projects, learn more about my skills, and get in touch with me for collaborations or inquiries.
-
-  Thank you for Visiting.
+  Thank you for visiting.
