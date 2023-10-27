@@ -42,17 +42,29 @@ As a freelance web developer and designer, my passion lies in crafting compellin
   **Visit My Portfolio:**
   Ready to explore my work? Click the link below to visit my portfolio website:
 
-  [Visit My Portfolio](https://anupr0y.github.io/CODSOFT/Task%201/Index.html)
+  [View My Portfolio](https://anupr0y.github.io/CODSOFT/Task%201/Index.html)
 
 
 - **Level 1 Task 2**: LANDING PAGE
   
    **Description:**
-This beginner-friendly web development project focuses on creating an engaging landing page using HTML and CSS. It's the perfect opportunity to grasp the fundamentals of web design. Dive into the world of columns, sections, headers, footers, and layout alignment. Unleash your creativity while fine-tuning essential skills like padding, color choices, and element arrangement. The goal is to craft an eye-catching, user-friendly, and well-structured page. This project offers a practical platform to apply HTML and CSS knowledge, ideal for those taking their first steps into web development. Happy coding! 😄
+This beginner-friendly web development project focuses on creating an engaging landing page using HTML, CSS and JavaScript. It's the perfect opportunity to grasp the fundamentals of web design. Dive into the world of columns, sections, headers, footers, and layout alignment. Unleash your creativity while fine-tuning essential skills like padding, color choices, and element arrangement. The goal is to craft an eye-catching, user-friendly, and well-structured page. This project offers a practical platform to apply HTML and CSS knowledge, ideal for those taking their first steps into web development. Happy coding! 😄
 
     [View Project](https://anupr0y.github.io/CODSOFT/Task%202/index.html)
   
-- **Level 1 Task 3**: Develop a basic calculator.
+- **Level 1 Task 3**: Develop a basic calculator using HTML, CSS JavaScript.
+
+ **Description:**
+This is my latest project, a basic calculator built entirely with CSS, HTML, and JavaScript. In this project, I set out to create an interactive calculator that can perform addition, subtraction, multiplication, and division operations.
+
+The calculator features a user-friendly interface with neatly aligned buttons, making it easy for anyone to use. It also includes a display screen that shows both user input and the calculated results.
+
+To make this project a reality, I utilized the power of the CSS grid system for precise button alignments, and I implemented event listeners, if-else statements, operators, and loops in JavaScript to handle user input and perform calculations. Even though it might seem a bit challenging, I assure you that with a basic understanding of these technologies, you can tackle this project and gain valuable experience in web development.
+
+So, if you're looking to enhance your web development skills and create a handy calculator, give this project a try. It's a fantastic opportunity to apply your knowledge and build something useful!
+
+  [View Project](https://anupr0y.github.io/CODSOFT/Task%203/index.html)
+  
 
 Each task contributes to my web development skills and showcases my abilities. 
 Feel free to browse through my projects, learn more about my skills, and get in touch with me for collaborations or inquiries.
