@@ -45,14 +45,14 @@ As a freelance web developer and designer, my passion lies in crafting compellin
   [View My Portfolio](https://anupr0y.github.io/CODSOFT/Task%201/Index.html)
 
 
-- **Level 1 Task 2**: LANDING PAGE
+- **Level 1 Task 2**: **LANDING PAGE**
   
    **Description:**
 This beginner-friendly web development project focuses on creating an engaging landing page using HTML, CSS and JavaScript. It's the perfect opportunity to grasp the fundamentals of web design. Dive into the world of columns, sections, headers, footers, and layout alignment. Unleash your creativity while fine-tuning essential skills like padding, color choices, and element arrangement. The goal is to craft an eye-catching, user-friendly, and well-structured page. This project offers a practical platform to apply HTML and CSS knowledge, ideal for those taking their first steps into web development. Happy coding! 😄
 
     [View Project](https://anupr0y.github.io/CODSOFT/Task%202/index.html)
   
-- **Level 1 Task 3**: Develop a basic calculator using HTML, CSS JavaScript.
+- **Level 1 Task 3**: Develop a **CALCULATOR** using HTML, CSS JavaScript.
 
  **Description:**
 This is my latest project, a basic calculator built entirely with CSS, HTML, and JavaScript. In this project, I set out to create an interactive calculator that can perform addition, subtraction, multiplication, and division operations.
@@ -63,7 +63,7 @@ To make this project a reality, I utilized the power of the CSS grid system for 
 
 So, if you're looking to enhance your web development skills and create a handy calculator, give this project a try. It's a fantastic opportunity to apply your knowledge and build something useful!
 
-  [View Project](https://anupr0y.github.io/CODSOFT/Task%203/index.html)
+  [View Project](https://anupr0y.github.io/CODSOFT/Task%203/Index.html)
   
 
 Each task contributes to my web development skills and showcases my abilities. 
